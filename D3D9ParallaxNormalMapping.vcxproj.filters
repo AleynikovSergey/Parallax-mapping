@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="Content\Textures\color_map.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="Content\Textures\height_map.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="Content\Textures\normal_map.jpg">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="Content\Textures\credits.txt">
+      <Filter>Resource Files\Textures</Filter>
+    </None>
+    <None Include="Content\Shaders\parallax_normal_mapping.fx">
+      <Filter>Resource Files\Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include Files">
+      <UniqueIdentifier>{0459a867-9f5b-46eb-83e7-5cfc9f1d131f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{1ee450ac-48ee-4be2-b362-efc1395a5ab1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{71e4d716-7999-4b6b-979d-bf5470f88372}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shaders">
+      <UniqueIdentifier>{eef742ab-25f3-4b3b-8ed1-a7bb2157fd8f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Textures">
+      <UniqueIdentifier>{970f9c67-aaea-4e88-997a-c4e9370c6235}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

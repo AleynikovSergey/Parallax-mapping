@@ -1,0 +1,14 @@
+Credits.txt
+-----------
+
+color_map.jpg:
+- Created using Genetica Viewer 2.5
+- http://www.spiralgraphics.biz/viewer/index.htm
+
+height_map.jpg:
+- Created using Genetica Viewer 2.5
+- http://www.spiralgraphics.biz/viewer/index.htm
+
+normal_map.jpg:
+- Created using Crazybump
+- http://www.crazybump.com/

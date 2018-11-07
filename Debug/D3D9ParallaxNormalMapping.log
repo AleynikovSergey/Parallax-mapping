@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\sergeya\dropbox\7 semestr\алейников\игс\игс ш3\main.cpp(986): warning C4996: 'GetVersion': was declared deprecated
+  c:\program files (x86)\windows kits\8.1\include\um\sysinfoapi.h(110): note: see declaration of 'GetVersion'
+  D3D9ParallaxNormalMapping.vcxproj -> C:\Users\SergeyA\Dropbox\7 semestr\Алейников\ИГС\ИГС ш3\Debug\D3D9ParallaxNormalMapping.exe
+  D3D9ParallaxNormalMapping.vcxproj -> C:\Users\SergeyA\Dropbox\7 semestr\Алейников\ИГС\ИГС ш3\Debug\D3D9ParallaxNormalMapping.pdb (Full PDB)
